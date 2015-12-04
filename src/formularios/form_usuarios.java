@@ -371,7 +371,7 @@ public class form_usuarios implements ActionListener,KeyListener
     		String Docu=String.valueOf(Math.round(Math.random()*100));	
     		if(txtDoc.getText().equals(""))//Valido si el campo esta vacío " "
     		{
-   				JOptionPane.showMessageDialog(null,"Documento requerida");//Imprimo un mensaje de atención si el campo esta vacío
+   				JOptionPane.showMessageDialog(null,"Documento requerido");//Imprimo un mensaje de atención si el campo esta vacío
     		}
    			else
    			{
