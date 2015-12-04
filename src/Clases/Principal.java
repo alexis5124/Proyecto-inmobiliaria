@@ -14,3 +14,6 @@ public class Principal {
 		miLogin.setVisible(true);
 	}	
 }
+//Comentario para borrar
+//borrar
+
